@@ -1,5 +1,6 @@
 # Price-Prediction
-This works well in trending market situations, any time frame.
+1. This Model predicts close price based upon open price.
+2. This Model works well in trending market situations, any time frame.
 
 ### Current Update on Model: -
 1. Initial release, no real-time predictions.
