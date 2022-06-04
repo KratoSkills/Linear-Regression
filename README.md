@@ -13,3 +13,6 @@
 `pip install tvdatafeed numpy pandas matplotlib re`
 4. Type in your terminal:
 `python predict.py`
+
+### Video Guide
+Link: https://bit.ly/3NRl0VT
