@@ -15,4 +15,4 @@
 `python predict.py`
 
 ### Video Guide
-Link: https://bit.ly/3NRl0VT
+Link: https://bit.ly/3zifKXA  or  https://bit.ly/3NRl0VT
